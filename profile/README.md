@@ -1,6 +1,6 @@
 # KnowledgeQuest
 
-Quest Institute's Custom Content & Learning Management Platform
+Quest Institute's Custom Content Management Platform
 
 Made by Akhil Datla
 
